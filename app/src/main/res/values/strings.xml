@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="not_log_in">No se pudo iniciar sesión</string>
+    <string name="log_out">Log Out</string>
+    <string name="revoke">Revoke</string>
+    <string name="not_close_session">No se pudo cerrar sesión</string>
+    <string name="not_revoke">No se pudo revocar el acceso</string>
+    <string name="digital_portraits">Digital Portraits</string>
+    <string name="empecemos">¡Empecemos!</string>
+</resources>
